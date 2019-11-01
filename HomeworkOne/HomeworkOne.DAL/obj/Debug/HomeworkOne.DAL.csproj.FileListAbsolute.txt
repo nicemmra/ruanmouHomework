@@ -1,0 +1,13 @@
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\bin\Debug\HomeworkOne.DAL.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\bin\Debug\HomeworkOne.DAL.pdb
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\bin\Debug\HomeworkOne.IDAL.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\bin\Debug\HomeworkOne.Model.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\bin\Debug\HomeworkOne.IDAL.pdb
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\bin\Debug\HomeworkOne.Model.pdb
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\obj\Debug\HomeworkOne.DAL.csprojAssemblyReference.cache
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\obj\Debug\HomeworkOne.DAL.csproj.CoreCompileInputs.cache
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\obj\Debug\HomeworkOne.DAL.csproj.CopyComplete
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\obj\Debug\HomeworkOne.DAL.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\obj\Debug\HomeworkOne.DAL.pdb
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\bin\Debug\HomeworkOne.Framework.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.DAL\bin\Debug\HomeworkOne.Framework.pdb

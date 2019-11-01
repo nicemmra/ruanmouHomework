@@ -1,0 +1,6 @@
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.Framework\bin\Debug\HomeworkOne.Framework.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.Framework\bin\Debug\HomeworkOne.Framework.pdb
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.Framework\obj\Debug\HomeworkOne.Framework.csproj.CoreCompileInputs.cache
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.Framework\obj\Debug\HomeworkOne.Framework.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.Framework\obj\Debug\HomeworkOne.Framework.pdb
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.Framework\obj\Debug\HomeworkOne.Framework.csprojAssemblyReference.cache

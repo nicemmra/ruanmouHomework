@@ -1,0 +1,9 @@
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\bin\Debug\HomeworkOne.IDAL.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\bin\Debug\HomeworkOne.IDAL.pdb
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\bin\Debug\HomeworkOne.Model.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\bin\Debug\HomeworkOne.Model.pdb
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\obj\Debug\HomeworkOne.IDAL.csprojAssemblyReference.cache
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\obj\Debug\HomeworkOne.IDAL.csproj.CoreCompileInputs.cache
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\obj\Debug\HomeworkOne.IDAL.csproj.CopyComplete
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\obj\Debug\HomeworkOne.IDAL.dll
+D:\gitProjects\ruanmouHomework\HomeworkOne\HomeworkOne.IDAL\obj\Debug\HomeworkOne.IDAL.pdb
